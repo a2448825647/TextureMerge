@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.2.0",
+	"FriendlyName": "TextureMerge",
+	"Description": "TextureMerge Plugin.",
+	"Category": "Other",
+	"CreatedBy": "Huiyi",
+	"MarketplaceURL": "",
+	"Modules": [
+		{
+			"Name": "TextureMerge",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false
+}
